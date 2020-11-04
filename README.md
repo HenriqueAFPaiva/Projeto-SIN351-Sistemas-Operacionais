@@ -9,3 +9,15 @@
 
 **Objetivo:**
   Desenvolver um interpretador de comandos (shell) em linguagem C para a disciplina de **Sistemas Operacionais - SIN351**
+  
+**Compilar o projeto:**
+
+```bash
+make meuShell
+```
+
+**Executar:**
+
+```bash
+./meuShell
+```
