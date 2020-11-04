@@ -1,8 +1,8 @@
 # Projeto-SIN351
 
 **Grupo:**
-  - José Eduardo - 5964 - T1
-  - Henrique Alves - 5968 - T1
+  - José Eduardo - 5964 - T2
+  - Henrique Alves - 5968 - T2
 
   
 **Link repositório:** https://github.com/HenriqueAFPaiva/Projeto-SIN351
