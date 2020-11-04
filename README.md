@@ -1,7 +1,5 @@
 # Projeto-SIN351
 
-# Projeto_SIN351
-
 **Grupo:**
   - José Eduardo - 5964 - T1
   - Henrique Alves - 5968 - T1
