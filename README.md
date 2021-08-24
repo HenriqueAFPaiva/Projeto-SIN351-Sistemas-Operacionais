@@ -1,4 +1,4 @@
-# Projeto-SIN351
+# Projeto SIN351 - Sistemas Operacionais - UFV CRP
 
 **Grupo:**
   - José Eduardo - 5964 - T2
